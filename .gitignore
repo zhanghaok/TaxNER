@@ -1,0 +1,4 @@
+save_model*/*
+output_?/*
+data/*
+**/__pycache__/*

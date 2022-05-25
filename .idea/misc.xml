@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (d2l)" project-jdk-type="Python SDK" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/README.md" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="314" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/model/bert.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1462" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/main.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1281" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/run.sh" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="788" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/test.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="2900" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/framework.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="544" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/data_loader.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="2525" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/demo.py" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
