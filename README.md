@@ -53,10 +53,10 @@ python main.py --model bilstm --crf \
         --train_batch_size 64 \
         --dev_batch_size 32
 ```
-### **Test**
+### **Demo**
 
 ```
 输入一句话给出预测
-python test.py
+python demo.py
 ```
 
